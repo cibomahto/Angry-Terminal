@@ -1,0 +1,13 @@
+INTRODUCTION:
+
+Angry terminal is a method of interacting with your computer by punching it.
+
+It's written by Matt Mets in Processing (processing.org), and is released under the WTFPL.
+
+USAGE:
+
+Run the program. Alternate between hitting the left side of your keyboard (somewhere around the 's' key) and the right side (somewhere around the 'k' key) until you have selected a good letter, than hit both at the same time to select the letter. Hit them both again to send a carriage return.
+
+RECOMMENDED:
+
+An extra keyboard.
